@@ -24,6 +24,7 @@ jobs:
         with:
           combine: true
           sdk: latest
+          bindings-ref:
 
   package:
     name: Package builds
